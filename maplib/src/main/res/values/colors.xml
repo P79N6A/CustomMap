@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5d92f9</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff5266</color>
+    <color name="test_login">#959495</color>
+    <color name="view_login">#E5E5E5</color>
+    <color name="view_xieyi">#5D92F9</color>
+    <color name="colordefault">#E3E5E4</color>
+    <color name="view_place">#f1f4f3</color>
+    <color name="statusbar_color">#5D92F9</color>
+	<color name="text_red">#ff4c65</color>
+
+    <!-- ������˾ -->
+    <color name="filter_selected">#5d92f9</color>
+    <color name="filter_normal">#f6f9f8</color>
+    <color name="filter_text">#292929</color>
+    <color name="black">#292929</color>
+</resources>
